@@ -7,6 +7,9 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LURKS02&include_all_commits=true&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LURKS02&hide_title=true&layout=demo&langs_count=4&hide_border=true&theme=default)
   
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=dertflag)](https://solved.ac/dertflag)
+  
 #### Languages
 <img src="https://img.shields.io/badge/Swift-B7C8D5?style=for-the-badge&logo=Swift&logoColor=white">
   

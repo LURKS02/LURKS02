@@ -1,13 +1,12 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=220&section=header&text=Welcome!&animation=fadeIn&fontSize=70&fontAlignY=35&desc=LURKS02's%20Profile&descAlign=50&descAlignY=52&descSize=12)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LURKS02&include_all_commits=true&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LURKS02&hide_title=true&layout=demo&langs_count=4&theme=default)
-  
-<br>
   
   - 🌱 learning IOS APP front-end & back-end<br>
-
+  <br>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LURKS02&include_all_commits=true&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LURKS02&hide_title=true&layout=demo&langs_count=4&theme=default)
+  
 #### Languages
 <img src="https://img.shields.io/badge/Swift-B7C8D5?style=for-the-badge&logo=Swift&logoColor=white">
   

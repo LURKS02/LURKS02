@@ -1,8 +1,7 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=160&section=header&text=Welcome!&animation=fadeIn&fontSize=45&fontAlignY=28&desc=LURKS02's%20Profile&descAlign=50&descAlignY=45&descSize=11)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LURKS02&include_all_commits=true&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LURKS02&hide_title=true&layout=demo&langs_count=4&hide_border=true&theme=default)
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LURKS02&include_all_commits=true&show_icons=true&theme=swift&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LURKS02&hide_title=true&langs_count=3&hide_border=true&theme=swift)
 <img src="http://mazandi.herokuapp.com/api?handle=dertflag&theme=warm"/> 
   
 #### Languages

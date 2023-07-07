@@ -6,7 +6,7 @@
 <img src="http://mazandi.herokuapp.com/api?handle=dertflag&theme=warm"/> 
   
 #### Languages
-<img src="https://img.shields.io/badge/Swift-B7C8D5?style=for-the-badge&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/Objective_C-d9ceb4?style=for-the-badge&logo=Apple&logoColor=white">  <img src="https://img.shields.io/badge/Swift-B7C8D5?style=for-the-badge&logo=Swift&logoColor=white">  <img src="https://img.shields.io/badge/Swift_UI-bfdfe0?style=for-the-badge&logo=Swift&logoColor=white">
   
 #### Tools
 <img src="https://img.shields.io/badge/Figma-EBD6CE?style=for-the-badge&logo=Figma&logoColor=white">  <img src="https://img.shields.io/badge/Adobe Photoshop-ACCDEE?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"> <img src="https://img.shields.io/badge/Github-D5D5D5?style=for-the-badge&logo=Github&logoColor=white">

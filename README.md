@@ -1,6 +1,6 @@
 <div align="leading">
   
-![header](https://capsule-render.vercel.app/api?type=Soft&text=Come%20smoke%20a%20cigarette%20and%20let%20your%20hair%20down,%20Then%20pray%20for%20the%20rain%20to%20go%20away-nl-I'm%20trying%20to%20forget%20I%20let%20us%20both%20down,%20Then%20pray%20for%20the%20sun%20to%20come%20again-nl-I%20never%20thought%20I%20could%20feel%20so%20small,%20But%20you're%20the%20one%20that%20can't%20live%20without%20attention-nl-I%20never%20thought%20I%20would%20lose%20this%20all,%20But%20you're%20the%20one%20who%20needs%20the%20intervention&fontColor=ffffff&color=0:faf0f0,100:d5e3e8&height=120&section=header&animation=fadeIn&fontSize=15&fontAlignY=17)
+![header](https://capsule-render.vercel.app/api?type=Soft&text=Call%20your%20name%20every%20day%20when%20I%20seem%20so%20helpless-nl-I've%20fallen%20down,%20but%20I'll%20rise%20above%20this,%20rise%20above%20this%20doubt&fontColor=ffffff&color=0:faf0f0,100:d5e3e8&height=70&section=header&animation=fadeIn&fontSize=15&fontAlignY=30)
 
 <br>
 

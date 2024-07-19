@@ -14,14 +14,17 @@ interested in design patterns and foreign languages
 
 <br>
 
-#### Swift Study Page
+#### Study
 
 https://zest-waterfall-98b.notion.site/da81436c73ba4e33956e915951f096fc?v=1250e41223834b619bbfe0f3f4dd5eb8&pvs=4
 
+##
+
 <br>
 
-#### Skill
+### Skill
 
+##### Language
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)

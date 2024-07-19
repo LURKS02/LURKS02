@@ -25,40 +25,44 @@ https://zest-waterfall-98b.notion.site/da81436c73ba4e33956e915951f096fc?v=1250e4
 ### Skill
 
 #### Language
-![Swift](https://ziadoua.github.io/m3-Markdown-Badges/badges/Swift/swift1.svg)
-![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg)
-![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)
+![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=Swift)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=Python)
+![ObjC](https://img.shields.io/badge/objective%20c-black?style=for-the-badge&logo=objective%20c)
 
 #### OS & IDE
-![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
-![Xcode](https://ziadoua.github.io/m3-Markdown-Badges/badges/Xcode/xcode1.svg)
-![Visual Studio Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
-![PyCharm](https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm3.svg)
+![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
+![XCode](https://img.shields.io/badge/xcode-black?style=for-the-badge&logo=XCode)
+![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual%20studio%20code)
+![PyCharm](https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm)
 
 <br>
   
 ### Tools
 
 #### Version Control
-![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
-![GitHub](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
+![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=Git)
+![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
+![Fork](https://img.shields.io/badge/fork-black?style=for-the-badge&logo=fork)
 
 #### API Testing
-![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
+![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=Postman)
+
 
 #### Documentation
-![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
-![Notion](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
-![Obsidian](https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian1.svg)
+![Markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=Markdown)
+![Notion](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion)
+![Obsidian](https://img.shields.io/badge/obsidian-black?style=for-the-badge&logo=Obsidian)
 
 #### Software Design
-![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
-![Adobe Photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg)
+![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-black?style=for-the-badge&logo=adobe%20photoshop)
 
 <br>
   
 ### Interests
-![Switch](https://ziadoua.github.io/m3-Markdown-Badges/badges/NintendoSwitch/nintendoswitch1.svg)
+![Switch](https://img.shields.io/badge/nintendo%20switch-black?style=for-the-badge&logo=nintendo%20switch)
+
 
 ##
 

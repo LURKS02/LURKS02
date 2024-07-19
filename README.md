@@ -1,6 +1,6 @@
 <div align="leading">
   
-![header](https://capsule-render.vercel.app/api?type=Soft&text=I've%20fallen%20down,%20but%20I'll%20rise%20above%20this%20doubt&fontColor=ffffff&color=0:faf0f0,100:d5e3e8&height=70&section=header&animation=fadeIn&fontSize=15&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=Soft&text="I've%20fallen%20down,%20but%20I'll%20rise%20above%20this%20doubt"&fontColor=ffffff&color=0:faf0f0,100:d5e3e8&height=70&section=header&animation=fadeIn&fontSize=15&fontAlignY=50)
 
 <br>
 

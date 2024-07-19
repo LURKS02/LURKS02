@@ -17,9 +17,9 @@ interested in design patterns and foreign languages
 #### Study
 
 ##### Swift
-[개념 정리 노션 페이지](https://zest-waterfall-98b.notion.site/da81436c73ba4e33956e915951f096fc?v=1250e41223834b619bbfe0f3f4dd5eb8&pvs=4)
+[Link to Notion](https://zest-waterfall-98b.notion.site/da81436c73ba4e33956e915951f096fc?v=1250e41223834b619bbfe0f3f4dd5eb8&pvs=4)
 ##### Python
-[문법 공부 페이지](https://zest-waterfall-98b.notion.site/5e1d837d792041f58268d6c29ea8df02?v=0ad34213c3bd4b1489a59f85a9f7af42&pvs=4)
+[Link to Notion](https://zest-waterfall-98b.notion.site/5e1d837d792041f58268d6c29ea8df02?v=0ad34213c3bd4b1489a59f85a9f7af42&pvs=4)
 
 ##
 

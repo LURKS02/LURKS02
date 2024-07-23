@@ -38,7 +38,6 @@ interested in design patterns and foreign languages
 ![Notion](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion)
 ![Obsidian](https://img.shields.io/badge/obsidian-black?style=for-the-badge&logo=Obsidian)
 ![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-black?style=for-the-badge&logo=adobe%20photoshop)
 
 <br>
 

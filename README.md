@@ -35,8 +35,6 @@ interested in design patterns and foreign languages
 ![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
 ![Fork](https://img.shields.io/badge/fork-black?style=for-the-badge&logo=fork)
 ![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=Postman)
-![Notion](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion)
-![Obsidian](https://img.shields.io/badge/obsidian-black?style=for-the-badge&logo=Obsidian)
 ![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)
 
 <br>

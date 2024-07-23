@@ -27,7 +27,6 @@ interested in design patterns and foreign languages
 ![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=Swift)
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=Python)
-![ObjC](https://img.shields.io/badge/objective%20c-black?style=for-the-badge&logo=objective%20c)
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
   
 #### Tools

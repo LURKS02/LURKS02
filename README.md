@@ -31,7 +31,7 @@ interested in design patterns and foreign languages
   
 #### Tools
 
-![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
 ![Fork](https://img.shields.io/badge/fork-black?style=for-the-badge&logo=fork)
 ![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=Postman)
 ![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)

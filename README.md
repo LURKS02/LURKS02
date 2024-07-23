@@ -22,49 +22,25 @@ interested in design patterns and foreign languages
 
 ##
 
-<br>
-
 #### Skill
 
-##### Language
 ![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=Swift)
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=Python)
 ![ObjC](https://img.shields.io/badge/objective%20c-black?style=for-the-badge&logo=objective%20c)
-
-##### OS & IDE
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
-![XCode](https://img.shields.io/badge/xcode-black?style=for-the-badge&logo=XCode)
-![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual%20studio%20code)
-![PyCharm](https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm)
-
-<br>
   
 #### Tools
 
-##### Version Control
-![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
 ![Fork](https://img.shields.io/badge/fork-black?style=for-the-badge&logo=fork)
-
-##### API Testing
 ![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=Postman)
-
-
-##### Documentation
-![Markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=Markdown)
 ![Notion](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion)
 ![Obsidian](https://img.shields.io/badge/obsidian-black?style=for-the-badge&logo=Obsidian)
-
-##### Software Design
 ![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-black?style=for-the-badge&logo=adobe%20photoshop)
 
 <br>
-  
-#### Interests
-![Switch](https://img.shields.io/badge/nintendo%20switch-black?style=for-the-badge&logo=nintendo%20switch)
-
 
 ##
 

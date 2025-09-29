@@ -9,7 +9,7 @@
 
 <br>
 
-[취준 생활 회고 - VCNC(타다) / 토스 next 지원 후기](https://lurks02.github.io/etc/2025-09-29-Job-Hunting/)
+[✏️ 취준 생활 회고 - VCNC(타다) / 토스 next 지원 후기](https://lurks02.github.io/etc/2025-09-29-Job-Hunting/)
 
 <br>
 
